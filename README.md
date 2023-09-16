@@ -1,7 +1,7 @@
 ## Java SE
 
 ### 软件设计师
-  - [类和接口](00考前介绍.md)
+  - [类和接口](/软件设计师/00考前介绍.md)
 
 ### 基础
 
@@ -54,7 +54,7 @@
   - [MyBatis](javaee/JDBC/MyBatis.md)
 
 ### Spring
- 
+
   - [Spring & Spring Boot](javaee/spring/Spring.md)
   - [Spring IOC](javaee/spring/SpringIOC.md)
   - [Spring AOP](javaee/spring/SpringAOP.md)
