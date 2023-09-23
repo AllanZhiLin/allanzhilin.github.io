@@ -56,7 +56,7 @@
 2. [语言特性](云原生/01语言特性.md)
 3. [语言进阶](云原生/02语言进阶.md)
 4. [Docker核心技术](云原生/03Docker核心技术.md)
-5. [Kubernetes架构原则](云原生/04Kubernetes 架构原则.md)
+5. [Kubernetes架构原则](云原生/04Kubernetes架构原则.md)
 
 ## 其它
 
